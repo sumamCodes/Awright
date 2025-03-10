@@ -1,0 +1,10 @@
+### **dependencies.txt**  
+
+numpy  
+pandas  
+matplotlib  
+torch  
+torchvision  
+Pillow  
+tqdm  
+kaggle  
